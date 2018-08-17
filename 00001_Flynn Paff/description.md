@@ -5,6 +5,6 @@ Escriba un programa que recorra los números del 0 al 100 inclusive y...
 si son múltiplos de 3, que imprima "Flynn" y para los múltiplos de 5 imprima "Paff".
 
 
-> Sabiendo esto, declará una variable de tipo `int[]` llamada `numeros`, que contenga los valores 1, 2 y 3.  
+> Sabiendo esto, declará una función que devuelva un `int[]` llamada `numeros`, que tome el tamaño del array y devuelva una array que contenga los valores 1, 2 y 3.  
 
 

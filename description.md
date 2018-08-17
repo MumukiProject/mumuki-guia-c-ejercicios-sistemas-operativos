@@ -1,1 +1,1 @@
-TODO
+A continuación vas a resolver algunos ejercicios para evaluar tu nivel de conocimiento del lenguaje C. :muscle:
